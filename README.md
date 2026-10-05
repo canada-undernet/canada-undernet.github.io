@@ -1,7 +1,7 @@
 # #Canada @ Undernet
 
 The website for **#Canada** on the Undernet IRC network — a bilingual (English / Français)
-Canadian channel. Live at **[undernet.xyz](https://undernet.xyz)**.
+Canadian channel. Live at **[canada-undernet.gothub.io](https://canada-undernet.gothub.io)**.
 
 [Français ci-dessous](#français)
 
